@@ -11,7 +11,11 @@ State: Customer state
 Zipcode: Customer zip
 Status: Status of complaint
 Filing on behalf of someone
-Analysis Task
+Analysis Task:
+
+Task 1b. Provide the trend chart for the number of complaints at monthly 
+         and daily granularity levels.
+         
 Task 3:
 Which state has the maximum complaints
 Which state has the highest percentage of unresolved complaints
